@@ -134,7 +134,7 @@ public class CustomerController {
 
 		if (name == null || pwd == null || gender == null || phone == null) {
 			response.sendRedirect("resource/rgister.html"); 
-			//
+			//ssss
 			return;
 		}
 
